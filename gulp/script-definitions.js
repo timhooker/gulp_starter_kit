@@ -8,7 +8,8 @@ module.exports = {
   ],
 
   vendor: [
-    'bower_components/jquery/dist/jquery.min.js',
-    'bower_components/lodash/lodash.min.js'
+    './bower_components/jquery/dist/jquery.min.js',
+    './bower_components/Happyjs/happy.js',
+    './bower_components/Happyjs/happy.methods.js'
   ]
 };
